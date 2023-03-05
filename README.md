@@ -4,11 +4,10 @@
 
 This project was generated with:
 
-*Angular
-*Typescript
-*HTML
-*CSS
-\*PrimeNG
+Angular
+Typescript
+HTML
+CSS
 
 ## Development server
 
